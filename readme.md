@@ -1,4 +1,4 @@
-[DEMO LINK](https://vitaliybondarenko1982.github.io/js-dom-array-methods/)
+[DEMO LINK](https://vitaliybondarenko1982.github.io/js-dom-array-methods/index.html)
 
 ## DOM Array Methods
 
